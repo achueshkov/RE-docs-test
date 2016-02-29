@@ -12,7 +12,7 @@ Welcome to the Realeyes Developer portal. You'll find comprehensive guides and d
     :width: 250px
     :height: 250px
     :class: round
-    :target: dc1/index.html    
+    :target: //dc1-docs.readthedocs.org/en/latest/    
     
 .. |logo2| image:: _static/dc2_logo.png
     :width: 250px
@@ -31,7 +31,7 @@ Welcome to the Realeyes Developer portal. You'll find comprehensive guides and d
 .. |desc3| replace:: Provides API to manage collected data and allows to include Realeyes reports into your web site.
 
 .. |DC1| replace:: **Collection Platform** 
-.. _DC1: dc1/index.html
+.. _DC1: //dc1-docs.readthedocs.org/en/latest/
 
 .. |DC2| replace:: **Live Collection Platform** 
 .. _DC2: dc2/index.html
